@@ -4,3 +4,6 @@ This project is part of a global intitaitve to perform an explantory analysis on
 
 ## Data set:
 Dataset is available in the [repository](https://github.com/CSSEGISandData/COVID-19) 
+
+## Python EDA Packages
+numpy, pandas, datetime, seaborn, matplotlib, plotly, and bokeh
