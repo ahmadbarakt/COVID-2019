@@ -6,4 +6,4 @@ This project is part of a global intitaitve to perform an explantory analysis on
 ## Dataset:
 The raw data pulled from multiple sources:
 - WHO Coronavirus disease (COVID-2019) situation reports and reports are available in the following [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
-- Twitter with search word "@spectatorindex,corona"
+- Twitter with search key words "@spectatorindex,corona"
